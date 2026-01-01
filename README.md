@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on AI ML projects<br>Focusing on C++,Python and Web technologies<br>Real world problem solving and System Design<br>Exploring algorithms and backend developement
+Working on AI ML projects<br>Focusing on C++,Python and Web technologies<br>Real world problem solving and System Design<br>Exploring algorithms and backend developement
 
 
 ## 🌐 Socials:
